@@ -1,0 +1,1 @@
+O projeto é uma proposta de análise de padrões no último campeonato de dota, PGL Wallachia 2026 Season 8, portanto utilizando dados reais de partidas profissionais. A intenção é explorar dados, tratar esses dados, e tentar reconhecer padrões relacionados a times, heróis, itens... E o que mais puder ser analisado! O projeto é concebido para Astini
