@@ -1,0 +1,2064 @@
+{
+  "game_start_tick": 23116,
+  "smoke_events_aggregated": [
+    {
+      "source": {
+        "tick": 21772,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": -44.8
+      },
+      "activator_pos": [
+        15413.65625,
+        19360.1875
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 22570,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": -18.2
+        },
+        {
+          "tick": 22662,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": -15.133
+        },
+        {
+          "tick": 22992,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": -4.133
+        },
+        {
+          "tick": 23022,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": -3.133
+        },
+        {
+          "tick": 23122,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 0.2
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 21834,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": -42.733
+      },
+      "activator_pos": [
+        14828.25,
+        14184.5
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_lion"
+      ],
+      "dispelled": [
+        {
+          "tick": 22568,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": -18.267
+        },
+        {
+          "tick": 22660,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": -15.2
+        },
+        {
+          "tick": 23184,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 2.267
+        },
+        {
+          "tick": 23184,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 2.267
+        },
+        {
+          "tick": 23184,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 2.267
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 39366,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 541.667
+      },
+      "activator_pos": [
+        15506.875,
+        11914.03125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_tiny"
+      ],
+      "dispelled": [
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40718,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 586.733
+        },
+        {
+          "tick": 40718,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 586.733
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 42064,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 631.6
+      },
+      "activator_pos": [
+        17023.71875,
+        16826.625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier"
+      ],
+      "dispelled": [
+        {
+          "tick": 42828,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 657.067
+        },
+        {
+          "tick": 42932,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 660.533
+        },
+        {
+          "tick": 43414,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 676.6
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 46760,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 788.133
+      },
+      "activator_pos": [
+        16904.96875,
+        17630.15625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 47234,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 803.933
+        },
+        {
+          "tick": 47258,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 804.733
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 48686,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 852.333
+      },
+      "activator_pos": [
+        10557.65625,
+        17473.0625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_mars"
+      ],
+      "dispelled": [
+        {
+          "tick": 48972,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 861.867
+        },
+        {
+          "tick": 48982,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 862.2
+        },
+        {
+          "tick": 49034,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 863.933
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 55888,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 1092.4
+      },
+      "activator_pos": [
+        14522.625,
+        16935.25
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier"
+      ],
+      "dispelled": [
+        {
+          "tick": 56552,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 1114.533
+        },
+        {
+          "tick": 56560,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 1114.8
+        },
+        {
+          "tick": 56580,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 1115.467
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 62594,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 1315.933
+      },
+      "activator_pos": [
+        14108.125,
+        15771.9375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_mars",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 63014,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 1329.933
+        },
+        {
+          "tick": 63030,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 1330.467
+        },
+        {
+          "tick": 63856,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 1358.0
+        },
+        {
+          "tick": 63944,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 1360.933
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 64274,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 1371.933
+      },
+      "activator_pos": [
+        16493.40625,
+        17905.40625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_oracle"
+      ],
+      "dispelled": [
+        {
+          "tick": 65436,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 1410.667
+        },
+        {
+          "tick": 65504,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 1412.933
+        },
+        {
+          "tick": 65624,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 1416.933
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 65726,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 1420.333
+      },
+      "activator_pos": [
+        20900.0,
+        10547.5
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 66456,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 1444.667
+        },
+        {
+          "tick": 67028,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 1463.733
+        },
+        {
+          "tick": 67064,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 1464.933
+        },
+        {
+          "tick": 67076,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 1465.333
+        },
+        {
+          "tick": 67076,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 1465.333
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 81846,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 1957.667
+      },
+      "activator_pos": [
+        14985.71875,
+        13529.53125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_tiny"
+      ],
+      "dispelled": [
+        {
+          "tick": 82184,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 1968.933
+        },
+        {
+          "tick": 82192,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 1969.2
+        },
+        {
+          "tick": 82222,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 1970.2
+        },
+        {
+          "tick": 82260,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 1971.467
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 81928,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 1960.4
+      },
+      "activator_pos": [
+        15342.5625,
+        19035.46875
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 82182,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 1968.867
+        },
+        {
+          "tick": 82228,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 1970.4
+        },
+        {
+          "tick": 82274,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 1971.933
+        },
+        {
+          "tick": 82286,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 1972.333
+        },
+        {
+          "tick": 82330,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 1973.8
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 91036,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 2264.0
+      },
+      "activator_pos": [
+        16197.1875,
+        18397.84375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle"
+      ],
+      "dispelled": [
+        {
+          "tick": 91444,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 2277.6
+        },
+        {
+          "tick": 91462,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 2278.2
+        },
+        {
+          "tick": 91522,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 2280.2
+        },
+        {
+          "tick": 91632,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 2283.867
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 100182,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 2568.867
+      },
+      "activator_pos": [
+        17411.125,
+        20261.84375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 100924,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 2593.6
+        },
+        {
+          "tick": 100990,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 2595.8
+        },
+        {
+          "tick": 101248,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 2604.4
+        },
+        {
+          "tick": 101532,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 2613.867
+        },
+        {
+          "tick": 101532,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 2613.867
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 101736,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 2620.667
+      },
+      "activator_pos": [
+        10002.4375,
+        18713.78125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_mars"
+      ],
+      "dispelled": [
+        {
+          "tick": 102334,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 2640.6
+        },
+        {
+          "tick": 102370,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 2641.8
+        },
+        {
+          "tick": 102394,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 2642.6
+        },
+        {
+          "tick": 102520,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 2646.8
+        },
+        {
+          "tick": 102544,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 2647.6
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 114270,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 3038.467
+      },
+      "activator_pos": [
+        13254.9375,
+        14980.3125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny"
+      ],
+      "dispelled": [
+        {
+          "tick": 115304,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 3072.933
+        },
+        {
+          "tick": 115412,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 3076.533
+        },
+        {
+          "tick": 115546,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 3081.0
+        },
+        {
+          "tick": 115620,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 3083.467
+        },
+        {
+          "tick": 115620,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 3083.467
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 119828,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 3223.733
+      },
+      "activator_pos": [
+        19092.25,
+        16365.3125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle"
+      ],
+      "dispelled": [
+        {
+          "tick": 120080,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 3232.133
+        },
+        {
+          "tick": 120138,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 3234.067
+        },
+        {
+          "tick": 120182,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 3235.533
+        },
+        {
+          "tick": 120198,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 3236.067
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 119958,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 3228.067
+      },
+      "activator_pos": [
+        15318.875,
+        17946.65625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_mars"
+      ],
+      "dispelled": [
+        {
+          "tick": 120114,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 3233.267
+        },
+        {
+          "tick": 120138,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 3234.067
+        },
+        {
+          "tick": 120138,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 3234.067
+        },
+        {
+          "tick": 120174,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 3235.267
+        },
+        {
+          "tick": 120206,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 3236.333
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 130962,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 3594.867
+      },
+      "activator_pos": [
+        12880.625,
+        17934.53125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_monkey_king"
+      ],
+      "dispelled": [
+        {
+          "tick": 131528,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 3613.733
+        },
+        {
+          "tick": 131572,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 3615.2
+        },
+        {
+          "tick": 131624,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 3616.933
+        },
+        {
+          "tick": 131906,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 3626.333
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 136152,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 3767.867
+      },
+      "activator_pos": [
+        19657.0625,
+        21751.375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king"
+      ],
+      "dispelled": [
+        {
+          "tick": 136392,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 3775.867
+        },
+        {
+          "tick": 136618,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 3783.4
+        },
+        {
+          "tick": 137502,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 3812.867
+        },
+        {
+          "tick": 137502,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 3812.867
+        },
+        {
+          "tick": 137502,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 3812.867
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 157574,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 4481.933
+      },
+      "activator_pos": [
+        13811.96875,
+        15482.21875
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 157820,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 4490.133
+        },
+        {
+          "tick": 158586,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 4515.667
+        },
+        {
+          "tick": 158924,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 4526.933
+        },
+        {
+          "tick": 158924,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 4526.933
+        },
+        {
+          "tick": 158924,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 4526.933
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 157690,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 4485.8
+      },
+      "activator_pos": [
+        15605.34375,
+        19256.5625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king"
+      ],
+      "dispelled": [
+        {
+          "tick": 158586,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 4515.667
+        },
+        {
+          "tick": 158914,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 4526.6
+        },
+        {
+          "tick": 159008,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 4529.733
+        },
+        {
+          "tick": 159040,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 4530.8
+        },
+        {
+          "tick": 159040,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 4530.8
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 163164,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 4668.267
+      },
+      "activator_pos": [
+        16563.65625,
+        13959.0625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 163274,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 4671.933
+        },
+        {
+          "tick": 163302,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 4672.867
+        },
+        {
+          "tick": 164512,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 4713.2
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 163776,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 4688.667
+      },
+      "activator_pos": [
+        20164.75,
+        16023.03125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_dawnbreaker"
+      ],
+      "dispelled": [
+        {
+          "tick": 164660,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 4718.133
+        },
+        {
+          "tick": 164694,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 4719.267
+        },
+        {
+          "tick": 164710,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 4719.8
+        },
+        {
+          "tick": 164756,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 4721.333
+        },
+        {
+          "tick": 164784,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 4722.267
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    }
+  ],
+  "radiant_smokes": [
+    {
+      "source": {
+        "tick": 21834,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": -42.733
+      },
+      "activator_pos": [
+        14828.25,
+        14184.5
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_lion"
+      ],
+      "dispelled": [
+        {
+          "tick": 22568,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": -18.267
+        },
+        {
+          "tick": 22660,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": -15.2
+        },
+        {
+          "tick": 23184,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 2.267
+        },
+        {
+          "tick": 23184,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 2.267
+        },
+        {
+          "tick": 23184,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 2.267
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 39366,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 541.667
+      },
+      "activator_pos": [
+        15506.875,
+        11914.03125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_tiny"
+      ],
+      "dispelled": [
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40716,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 586.667
+        },
+        {
+          "tick": 40718,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 586.733
+        },
+        {
+          "tick": 40718,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 586.733
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 48686,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 852.333
+      },
+      "activator_pos": [
+        10557.65625,
+        17473.0625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_mars"
+      ],
+      "dispelled": [
+        {
+          "tick": 48972,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 861.867
+        },
+        {
+          "tick": 48982,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 862.2
+        },
+        {
+          "tick": 49034,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 863.933
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 62594,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 1315.933
+      },
+      "activator_pos": [
+        14108.125,
+        15771.9375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_mars",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 63014,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 1329.933
+        },
+        {
+          "tick": 63030,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 1330.467
+        },
+        {
+          "tick": 63856,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 1358.0
+        },
+        {
+          "tick": 63944,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 1360.933
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 65726,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 1420.333
+      },
+      "activator_pos": [
+        20900.0,
+        10547.5
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 66456,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 1444.667
+        },
+        {
+          "tick": 67028,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 1463.733
+        },
+        {
+          "tick": 67064,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 1464.933
+        },
+        {
+          "tick": 67076,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 1465.333
+        },
+        {
+          "tick": 67076,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 1465.333
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 81846,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 1957.667
+      },
+      "activator_pos": [
+        14985.71875,
+        13529.53125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_tiny"
+      ],
+      "dispelled": [
+        {
+          "tick": 82184,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 1968.933
+        },
+        {
+          "tick": 82192,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 1969.2
+        },
+        {
+          "tick": 82222,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 1970.2
+        },
+        {
+          "tick": 82260,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 1971.467
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 101736,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 2620.667
+      },
+      "activator_pos": [
+        10002.4375,
+        18713.78125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_mars"
+      ],
+      "dispelled": [
+        {
+          "tick": 102334,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 2640.6
+        },
+        {
+          "tick": 102370,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 2641.8
+        },
+        {
+          "tick": 102394,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 2642.6
+        },
+        {
+          "tick": 102520,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 2646.8
+        },
+        {
+          "tick": 102544,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 2647.6
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 114270,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 3038.467
+      },
+      "activator_pos": [
+        13254.9375,
+        14980.3125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny"
+      ],
+      "dispelled": [
+        {
+          "tick": 115304,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 3072.933
+        },
+        {
+          "tick": 115412,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 3076.533
+        },
+        {
+          "tick": 115546,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 3081.0
+        },
+        {
+          "tick": 115620,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 3083.467
+        },
+        {
+          "tick": 115620,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 3083.467
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 119958,
+        "attacker_name": "npc_dota_hero_lion",
+        "time_seconds": 3228.067
+      },
+      "activator_pos": [
+        15318.875,
+        17946.65625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_lion",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_queenofpain",
+        "npc_dota_hero_mars"
+      ],
+      "dispelled": [
+        {
+          "tick": 120114,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 3233.267
+        },
+        {
+          "tick": 120138,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 3234.067
+        },
+        {
+          "tick": 120138,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 3234.067
+        },
+        {
+          "tick": 120174,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 3235.267
+        },
+        {
+          "tick": 120206,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 3236.333
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 157574,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 4481.933
+      },
+      "activator_pos": [
+        13811.96875,
+        15482.21875
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_mars",
+        "npc_dota_hero_lion",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 157820,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 4490.133
+        },
+        {
+          "tick": 158586,
+          "target_name": "npc_dota_hero_mars",
+          "time_seconds": 4515.667
+        },
+        {
+          "tick": 158924,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 4526.933
+        },
+        {
+          "tick": 158924,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 4526.933
+        },
+        {
+          "tick": 158924,
+          "target_name": "npc_dota_hero_lion",
+          "time_seconds": 4526.933
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 163164,
+        "attacker_name": "npc_dota_hero_phoenix",
+        "time_seconds": 4668.267
+      },
+      "activator_pos": [
+        16563.65625,
+        13959.0625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_phoenix",
+        "npc_dota_hero_tiny",
+        "npc_dota_hero_queenofpain"
+      ],
+      "dispelled": [
+        {
+          "tick": 163274,
+          "target_name": "npc_dota_hero_tiny",
+          "time_seconds": 4671.933
+        },
+        {
+          "tick": 163302,
+          "target_name": "npc_dota_hero_queenofpain",
+          "time_seconds": 4672.867
+        },
+        {
+          "tick": 164512,
+          "target_name": "npc_dota_hero_phoenix",
+          "time_seconds": 4713.2
+        }
+      ],
+      "team": "Radiant",
+      "team_source": "attacker"
+    }
+  ],
+  "dire_smokes": [
+    {
+      "source": {
+        "tick": 21772,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": -44.8
+      },
+      "activator_pos": [
+        15413.65625,
+        19360.1875
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 22570,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": -18.2
+        },
+        {
+          "tick": 22662,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": -15.133
+        },
+        {
+          "tick": 22992,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": -4.133
+        },
+        {
+          "tick": 23022,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": -3.133
+        },
+        {
+          "tick": 23122,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 0.2
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 42064,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 631.6
+      },
+      "activator_pos": [
+        17023.71875,
+        16826.625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier"
+      ],
+      "dispelled": [
+        {
+          "tick": 42828,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 657.067
+        },
+        {
+          "tick": 42932,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 660.533
+        },
+        {
+          "tick": 43414,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 676.6
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 46760,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 788.133
+      },
+      "activator_pos": [
+        16904.96875,
+        17630.15625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 47234,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 803.933
+        },
+        {
+          "tick": 47258,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 804.733
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 55888,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 1092.4
+      },
+      "activator_pos": [
+        14522.625,
+        16935.25
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier"
+      ],
+      "dispelled": [
+        {
+          "tick": 56552,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 1114.533
+        },
+        {
+          "tick": 56560,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 1114.8
+        },
+        {
+          "tick": 56580,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 1115.467
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 64274,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 1371.933
+      },
+      "activator_pos": [
+        16493.40625,
+        17905.40625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_oracle"
+      ],
+      "dispelled": [
+        {
+          "tick": 65436,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 1410.667
+        },
+        {
+          "tick": 65504,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 1412.933
+        },
+        {
+          "tick": 65624,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 1416.933
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 81928,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 1960.4
+      },
+      "activator_pos": [
+        15342.5625,
+        19035.46875
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 82182,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 1968.867
+        },
+        {
+          "tick": 82228,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 1970.4
+        },
+        {
+          "tick": 82274,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 1971.933
+        },
+        {
+          "tick": 82286,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 1972.333
+        },
+        {
+          "tick": 82330,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 1973.8
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 91036,
+        "attacker_name": "npc_dota_hero_windrunner",
+        "time_seconds": 2264.0
+      },
+      "activator_pos": [
+        16197.1875,
+        18397.84375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle"
+      ],
+      "dispelled": [
+        {
+          "tick": 91444,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 2277.6
+        },
+        {
+          "tick": 91462,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 2278.2
+        },
+        {
+          "tick": 91522,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 2280.2
+        },
+        {
+          "tick": 91632,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 2283.867
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 100182,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 2568.867
+      },
+      "activator_pos": [
+        17411.125,
+        20261.84375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner"
+      ],
+      "dispelled": [
+        {
+          "tick": 100924,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 2593.6
+        },
+        {
+          "tick": 100990,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 2595.8
+        },
+        {
+          "tick": 101248,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 2604.4
+        },
+        {
+          "tick": 101532,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 2613.867
+        },
+        {
+          "tick": 101532,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 2613.867
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 119828,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 3223.733
+      },
+      "activator_pos": [
+        19092.25,
+        16365.3125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle"
+      ],
+      "dispelled": [
+        {
+          "tick": 120080,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 3232.133
+        },
+        {
+          "tick": 120138,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 3234.067
+        },
+        {
+          "tick": 120182,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 3235.533
+        },
+        {
+          "tick": 120198,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 3236.067
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 130962,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 3594.867
+      },
+      "activator_pos": [
+        12880.625,
+        17934.53125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_monkey_king"
+      ],
+      "dispelled": [
+        {
+          "tick": 131528,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 3613.733
+        },
+        {
+          "tick": 131572,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 3615.2
+        },
+        {
+          "tick": 131624,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 3616.933
+        },
+        {
+          "tick": 131906,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 3626.333
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 136152,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 3767.867
+      },
+      "activator_pos": [
+        19657.0625,
+        21751.375
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king"
+      ],
+      "dispelled": [
+        {
+          "tick": 136392,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 3775.867
+        },
+        {
+          "tick": 136618,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 3783.4
+        },
+        {
+          "tick": 137502,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 3812.867
+        },
+        {
+          "tick": 137502,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 3812.867
+        },
+        {
+          "tick": 137502,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 3812.867
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 157690,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 4485.8
+      },
+      "activator_pos": [
+        15605.34375,
+        19256.5625
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_dawnbreaker",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king"
+      ],
+      "dispelled": [
+        {
+          "tick": 158586,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 4515.667
+        },
+        {
+          "tick": 158914,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 4526.6
+        },
+        {
+          "tick": 159008,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 4529.733
+        },
+        {
+          "tick": 159040,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 4530.8
+        },
+        {
+          "tick": 159040,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 4530.8
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    },
+    {
+      "source": {
+        "tick": 163776,
+        "attacker_name": "npc_dota_hero_oracle",
+        "time_seconds": 4688.667
+      },
+      "activator_pos": [
+        20164.75,
+        16023.03125
+      ],
+      "smoked_targets": [
+        "npc_dota_hero_windrunner",
+        "npc_dota_hero_pangolier",
+        "npc_dota_hero_oracle",
+        "npc_dota_hero_monkey_king",
+        "npc_dota_hero_dawnbreaker"
+      ],
+      "dispelled": [
+        {
+          "tick": 164660,
+          "target_name": "npc_dota_hero_monkey_king",
+          "time_seconds": 4718.133
+        },
+        {
+          "tick": 164694,
+          "target_name": "npc_dota_hero_pangolier",
+          "time_seconds": 4719.267
+        },
+        {
+          "tick": 164710,
+          "target_name": "npc_dota_hero_windrunner",
+          "time_seconds": 4719.8
+        },
+        {
+          "tick": 164756,
+          "target_name": "npc_dota_hero_oracle",
+          "time_seconds": 4721.333
+        },
+        {
+          "tick": 164784,
+          "target_name": "npc_dota_hero_dawnbreaker",
+          "time_seconds": 4722.267
+        }
+      ],
+      "team": "Dire",
+      "team_source": "attacker"
+    }
+  ],
+  "unknown_smokes": [],
+  "count": 24,
+  "counts": {
+    "radiant": 11,
+    "dire": 13,
+    "unknown": 0
+  }
+}
