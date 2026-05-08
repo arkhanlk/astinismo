@@ -12,7 +12,16 @@ import math
 # Caminhos
 # ---------------------------------------------------------
 
-import os
+hide_github_icon = """
+<style>
+/* Hide the GitHub icon and related badges */
+#GithubIcon, .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob,
+.styles_viewerBadge__1yB5_, .viewerBadge_link__1S137, .viewerBadge_text__1JaDK {
+    display: none !important;
+}
+</style>
+"""
+st.markdown(hide_github_icon, unsafe_allow_html=True)
 
 BASE_DIR = os.path.dirname(__file__)
 
