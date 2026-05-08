@@ -1,0 +1,620 @@
+{
+    "radiant": {
+        "Aurora": {
+            "matches": [
+                "Aurora_BetBoom_8785561247.json",
+                "Aurora_BetBoom_8787185127.json",
+                "Aurora_FLCN_8786902529.json",
+                "Aurora_HEROIC_8782678248.json",
+                "Aurora_PV_8784176993.json",
+                "Aurora_XG_8777495739.json"
+            ],
+            "players": [
+                "Mikoto",
+                "Mira",
+                "Nightfall",
+                "Ws`",
+                "kaori"
+            ],
+            "count": 6
+        },
+        "BetBoom": {
+            "matches": [
+                "BetBoom_Aurora_8785712176.json",
+                "BetBoom_Aurora_8785812275.json",
+                "BetBoom_Aurora_8787054928.json",
+                "BetBoom_Aurora_8787299097.json",
+                "BetBoom_FLCN_8779067796.json",
+                "BetBoom_FLCN_8779265864.json",
+                "BetBoom_Liquid_8777714725.json",
+                "BetBoom_Liquid_8784597508.json",
+                "BetBoom_TSpirit_8783198427.json",
+                "BetBoom_VP_8776380784.json",
+                "BetBoom_VP_8776484403.json"
+            ],
+            "players": [
+                "Kataomi`",
+                "Kiritych~",
+                "MieRo",
+                "Save-",
+                "gpk~"
+            ],
+            "count": 11
+        },
+        "FLCN": {
+            "matches": [
+                "FLCN_Aurora_8786827560.json",
+                "FLCN_BetBoom_8779155491.json",
+                "FLCN_Liquid_8782870472.json",
+                "FLCN_Liquid_8783006717.json",
+                "FLCN_Liquid_8785918300.json",
+                "FLCN_Liquid_8786127499.json",
+                "FLCN_PV_8785317017.json",
+                "FLCN_TSpirit_8777936470.json",
+                "FLCN_TSpirit_8778045350.json",
+                "FLCN_TSpirit_8783980542.json",
+                "FLCN_TY_8776543835.json"
+            ],
+            "players": [
+                "AMMAR_THE_F",
+                "Cr1t-",
+                "Malr1ne",
+                "Sneyking",
+                "skiter"
+            ],
+            "count": 11
+        },
+        "GL": {
+            "matches": [
+                "GL_FLCN_8780159415.json",
+                "GL_FLCN_8780224945.json",
+                "GL_HEROIC_8781318601.json",
+                "GL_Liquid_8776077999.json",
+                "GL_Liquid_8776236178.json",
+                "GL_MOUZ_8777652578.json",
+                "GL_MOUZ_8777738576.json",
+                "GL_TSpirit_8778849866.json"
+            ],
+            "players": [
+                "Bignum",
+                "Fayde",
+                "Ghost",
+                "RCY",
+                "Speeed"
+            ],
+            "count": 8
+        },
+        "HEROIC": {
+            "matches": [
+                "HEROIC_Aurora_8782750796.json",
+                "HEROIC_GL_8781366014.json",
+                "HEROIC_Liquid_8780111494.json",
+                "HEROIC_Tundra_8776583882.json",
+                "HEROIC_VP_8778945001.json",
+                "HEROIC_VP_8779006190.json"
+            ],
+            "players": [
+                "KingJungles",
+                "Thiolicor",
+                "Wisper",
+                "Yuma",
+                "osito"
+            ],
+            "count": 6
+        },
+        "Liquid": {
+            "matches": [
+                "Liquid_BetBoom_8777630244.json",
+                "Liquid_BetBoom_8784508335.json",
+                "Liquid_BetBoom_8784700248.json",
+                "Liquid_FLCN_8786038067.json",
+                "Liquid_GL_8776157596.json",
+                "Liquid_HEROIC_8780072726.json",
+                "Liquid_SAR_8785399798.json",
+                "Liquid_VG_8778849893.json",
+                "Liquid_VG_8778960929.json"
+            ],
+            "players": [
+                "Ace ♠",
+                "Ekki",
+                "Nisha",
+                "m1CKe",
+                "tOfu"
+            ],
+            "count": 9
+        },
+        "MOUZ": {
+            "matches": [
+                "MOUZ_SAR_8781560526.json",
+                "MOUZ_Tundra_8779491334.json",
+                "MOUZ_Tundra_8779574003.json",
+                "MOUZ_Tundra_8779658823.json",
+                "MOUZ_VP_8780342142.json",
+                "MOUZ_VP_8780428772.json",
+                "MOUZ_VP_8780527869.json"
+            ],
+            "players": [
+                "BOOM",
+                "Crystallis",
+                "aik",
+                "lorenof"
+            ],
+            "count": 7
+        },
+        "NAVI": {
+            "matches": [
+                "NAVI_TSpirit_8780164509.json",
+                "NAVI_TY_8779297009.json",
+                "NAVI_TY_8779396380.json",
+                "NAVI_VG_8777492128.json"
+            ],
+            "players": [
+                "Niku",
+                "Riddys",
+                "daze",
+                "gotthejuice",
+                "pma"
+            ],
+            "count": 4
+        },
+        "PV": {
+            "matches": [
+                "PV_Aurora_8779372774.json",
+                "PV_Aurora_8779478244.json",
+                "PV_Aurora_8779581832.json",
+                "PV_Aurora_8784255815.json",
+                "PV_Aurora_8784373796.json",
+                "PV_FLCN_8785243904.json",
+                "PV_HEROIC_8778162915.json",
+                "PV_HEROIC_8778254726.json",
+                "PV_MOUZ_8776345901.json",
+                "PV_MOUZ_8776432038.json",
+                "PV_SAR_8780381253.json",
+                "PV_SAR_8782527726.json",
+                "PV_SAR_8782625329.json"
+            ],
+            "players": [
+                "9Class",
+                "Dukalis",
+                "No[o]ne-",
+                "SSS",
+                "Satanic"
+            ],
+            "count": 13
+        },
+        "SAR": {
+            "matches": [
+                "SAR_Aurora_8776170934.json",
+                "SAR_Aurora_8776238601.json",
+                "SAR_Aurora_8776302295.json",
+                "SAR_HEROIC_8783810675.json",
+                "SAR_HEROIC_8783863589.json",
+                "SAR_HEROIC_8783919534.json",
+                "SAR_Liquid_8785463098.json",
+                "SAR_MOUZ_8781428124.json",
+                "SAR_MOUZ_8781484100.json",
+                "SAR_PV_8780302268.json",
+                "SAR_PV_8780454747.json",
+                "SAR_PV_8782581053.json",
+                "SAR_TY_8777955132.json",
+                "SAR_XG_8779004984.json",
+                "SAR_XG_8779057857.json",
+                "SAR_XG_8779123262.json"
+            ],
+            "players": [
+                "DarkMago♡",
+                "Elmisho",
+                "Scofield",
+                "Wits"
+            ],
+            "count": 16
+        },
+        "TSpirit": {
+            "matches": [
+                "TSpirit_BetBoom_8783105237.json",
+                "TSpirit_FLCN_8777800049.json",
+                "TSpirit_FLCN_8784047386.json",
+                "TSpirit_GL_8778896415.json",
+                "TSpirit_NAVI_8780072753.json",
+                "TSpirit_NAVI_8780111466.json",
+                "TSpirit_VG_8775954955.json",
+                "TSpirit_VG_8776094912.json",
+                "TSpirit_XG_8781808385.json"
+            ],
+            "players": [
+                "Larl",
+                "Yatoro",
+                "panto",
+                "rue"
+            ],
+            "count": 9
+        },
+        "Tundra": {
+            "matches": [
+                "Tundra_HEROIC_8776679266.json",
+                "Tundra_HEROIC_8776815882.json",
+                "Tundra_VP_8778074211.json",
+                "Tundra_VP_8778252071.json"
+            ],
+            "players": [
+                "33",
+                "Ari",
+                "V-Tune",
+                "Whitemon",
+                "bzm"
+            ],
+            "count": 4
+        },
+        "TY": {
+            "matches": [
+                "TY_FLCN_8776664516.json",
+                "TY_NAVI_8779214847.json",
+                "TY_SAR_8777838108.json"
+            ],
+            "players": [
+                "CHIRA_JUNIOR",
+                "DM",
+                "Maladych",
+                "Saksa",
+                "医者watson`"
+            ],
+            "count": 3
+        },
+        "VG": {
+            "matches": [
+                "VG_Liquid_8778912772.json",
+                "VG_NAVI_8777439091.json",
+                "VG_NAVI_8777570720.json",
+                "VG_TSpirit_8776009613.json",
+                "VG_XG_8780212309.json"
+            ],
+            "players": [
+                "Bach",
+                "XinQ",
+                "Xm",
+                "shiro",
+                "y`"
+            ],
+            "count": 5
+        },
+        "VP": {
+            "matches": [
+                "VP_Tundra_8778168822.json"
+            ],
+            "players": [
+                "Abed",
+                "Fly",
+                "Hellscream",
+                "Saberlight"
+            ],
+            "count": 1
+        },
+        "XG": {
+            "matches": [
+                "XG_Aurora_8777432261.json",
+                "XG_Aurora_8777560892.json",
+                "XG_NAVI_8775954888.json",
+                "XG_NAVI_8776019262.json",
+                "XG_TSpirit_8781669218.json",
+                "XG_VG_8780270320.json"
+            ],
+            "players": [
+                "Ame",
+                "NothingToSay",
+                "Xxs",
+                "fy",
+                "xNova"
+            ],
+            "count": 6
+        }
+    },
+    "dire": {
+        "BetBoom": {
+            "matches": [
+                "Aurora_BetBoom_8785561247.json",
+                "Aurora_BetBoom_8787185127.json",
+                "FLCN_BetBoom_8779155491.json",
+                "Liquid_BetBoom_8777630244.json",
+                "Liquid_BetBoom_8784508335.json",
+                "Liquid_BetBoom_8784700248.json",
+                "TSpirit_BetBoom_8783105237.json"
+            ],
+            "players": [
+                "Kataomi`",
+                "Kiritych~",
+                "MieRo",
+                "Save-",
+                "gpk~"
+            ],
+            "count": 7
+        },
+        "FLCN": {
+            "matches": [
+                "Aurora_FLCN_8786902529.json",
+                "BetBoom_FLCN_8779067796.json",
+                "BetBoom_FLCN_8779265864.json",
+                "GL_FLCN_8780159415.json",
+                "GL_FLCN_8780224945.json",
+                "Liquid_FLCN_8786038067.json",
+                "PV_FLCN_8785243904.json",
+                "TSpirit_FLCN_8777800049.json",
+                "TSpirit_FLCN_8784047386.json",
+                "TY_FLCN_8776664516.json"
+            ],
+            "players": [
+                "AMMAR_THE_F",
+                "Cr1t-",
+                "Malr1ne",
+                "Sneyking",
+                "skiter"
+            ],
+            "count": 10
+        },
+        "HEROIC": {
+            "matches": [
+                "Aurora_HEROIC_8782678248.json",
+                "GL_HEROIC_8781318601.json",
+                "Liquid_HEROIC_8780072726.json",
+                "PV_HEROIC_8778162915.json",
+                "PV_HEROIC_8778254726.json",
+                "SAR_HEROIC_8783810675.json",
+                "SAR_HEROIC_8783863589.json",
+                "SAR_HEROIC_8783919534.json",
+                "Tundra_HEROIC_8776679266.json",
+                "Tundra_HEROIC_8776815882.json"
+            ],
+            "players": [
+                "KingJungles",
+                "Thiolicor",
+                "Wisper",
+                "Yuma",
+                "osito"
+            ],
+            "count": 10
+        },
+        "PV": {
+            "matches": [
+                "Aurora_PV_8784176993.json",
+                "FLCN_PV_8785317017.json",
+                "SAR_PV_8780302268.json",
+                "SAR_PV_8780454747.json",
+                "SAR_PV_8782581053.json"
+            ],
+            "players": [
+                "9Class",
+                "Dukalis",
+                "No[o]ne-",
+                "SSS",
+                "Satanic"
+            ],
+            "count": 5
+        },
+        "XG": {
+            "matches": [
+                "Aurora_XG_8777495739.json",
+                "SAR_XG_8779004984.json",
+                "SAR_XG_8779057857.json",
+                "SAR_XG_8779123262.json",
+                "TSpirit_XG_8781808385.json",
+                "VG_XG_8780212309.json"
+            ],
+            "players": [
+                "Ame",
+                "NothingToSay",
+                "Xxs",
+                "fy",
+                "xNova"
+            ],
+            "count": 6
+        },
+        "Aurora": {
+            "matches": [
+                "BetBoom_Aurora_8785712176.json",
+                "BetBoom_Aurora_8785812275.json",
+                "BetBoom_Aurora_8787054928.json",
+                "BetBoom_Aurora_8787299097.json",
+                "FLCN_Aurora_8786827560.json",
+                "HEROIC_Aurora_8782750796.json",
+                "PV_Aurora_8779372774.json",
+                "PV_Aurora_8779478244.json",
+                "PV_Aurora_8779581832.json",
+                "PV_Aurora_8784255815.json",
+                "PV_Aurora_8784373796.json",
+                "SAR_Aurora_8776170934.json",
+                "SAR_Aurora_8776238601.json",
+                "SAR_Aurora_8776302295.json",
+                "XG_Aurora_8777432261.json",
+                "XG_Aurora_8777560892.json"
+            ],
+            "players": [
+                "Mikoto",
+                "Mira",
+                "Nightfall",
+                "Ws`",
+                "kaori"
+            ],
+            "count": 16
+        },
+        "Liquid": {
+            "matches": [
+                "BetBoom_Liquid_8777714725.json",
+                "BetBoom_Liquid_8784597508.json",
+                "FLCN_Liquid_8782870472.json",
+                "FLCN_Liquid_8783006717.json",
+                "FLCN_Liquid_8785918300.json",
+                "FLCN_Liquid_8786127499.json",
+                "GL_Liquid_8776077999.json",
+                "GL_Liquid_8776236178.json",
+                "HEROIC_Liquid_8780111494.json",
+                "SAR_Liquid_8785463098.json",
+                "VG_Liquid_8778912772.json"
+            ],
+            "players": [
+                "Ace ♠",
+                "Ekki",
+                "Nisha",
+                "m1CKe",
+                "tOfu"
+            ],
+            "count": 11
+        },
+        "TSpirit": {
+            "matches": [
+                "BetBoom_TSpirit_8783198427.json",
+                "FLCN_TSpirit_8777936470.json",
+                "FLCN_TSpirit_8778045350.json",
+                "FLCN_TSpirit_8783980542.json",
+                "GL_TSpirit_8778849866.json",
+                "NAVI_TSpirit_8780164509.json",
+                "VG_TSpirit_8776009613.json",
+                "XG_TSpirit_8781669218.json"
+            ],
+            "players": [
+                "Larl",
+                "Yatoro",
+                "panto",
+                "rue"
+            ],
+            "count": 8
+        },
+        "VP": {
+            "matches": [
+                "BetBoom_VP_8776380784.json",
+                "BetBoom_VP_8776484403.json",
+                "HEROIC_VP_8778945001.json",
+                "HEROIC_VP_8779006190.json",
+                "MOUZ_VP_8780342142.json",
+                "MOUZ_VP_8780428772.json",
+                "MOUZ_VP_8780527869.json",
+                "Tundra_VP_8778074211.json",
+                "Tundra_VP_8778252071.json"
+            ],
+            "players": [
+                "Abed",
+                "Fly",
+                "Hellscream",
+                "Saberlight"
+            ],
+            "count": 9
+        },
+        "TY": {
+            "matches": [
+                "FLCN_TY_8776543835.json",
+                "NAVI_TY_8779297009.json",
+                "NAVI_TY_8779396380.json",
+                "SAR_TY_8777955132.json"
+            ],
+            "players": [
+                "CHIRA_JUNIOR",
+                "DM",
+                "Maladych",
+                "Saksa",
+                "医者watson`"
+            ],
+            "count": 4
+        },
+        "MOUZ": {
+            "matches": [
+                "GL_MOUZ_8777652578.json",
+                "GL_MOUZ_8777738576.json",
+                "PV_MOUZ_8776345901.json",
+                "PV_MOUZ_8776432038.json",
+                "SAR_MOUZ_8781428124.json",
+                "SAR_MOUZ_8781484100.json"
+            ],
+            "players": [
+                "BOOM",
+                "Crystallis",
+                "aik",
+                "lorenof"
+            ],
+            "count": 6
+        },
+        "GL": {
+            "matches": [
+                "HEROIC_GL_8781366014.json",
+                "Liquid_GL_8776157596.json",
+                "TSpirit_GL_8778896415.json"
+            ],
+            "players": [
+                "Bignum",
+                "Fayde",
+                "Ghost",
+                "RCY",
+                "Speeed"
+            ],
+            "count": 3
+        },
+        "Tundra": {
+            "matches": [
+                "HEROIC_Tundra_8776583882.json",
+                "MOUZ_Tundra_8779491334.json",
+                "MOUZ_Tundra_8779574003.json",
+                "MOUZ_Tundra_8779658823.json",
+                "VP_Tundra_8778168822.json"
+            ],
+            "players": [
+                "33",
+                "Ari",
+                "V-Tune",
+                "Whitemon",
+                "bzm"
+            ],
+            "count": 5
+        },
+        "SAR": {
+            "matches": [
+                "Liquid_SAR_8785399798.json",
+                "MOUZ_SAR_8781560526.json",
+                "PV_SAR_8780381253.json",
+                "PV_SAR_8782527726.json",
+                "PV_SAR_8782625329.json",
+                "TY_SAR_8777838108.json"
+            ],
+            "players": [
+                "DarkMago♡",
+                "Elmisho",
+                "Scofield",
+                "Wits"
+            ],
+            "count": 6
+        },
+        "VG": {
+            "matches": [
+                "Liquid_VG_8778849893.json",
+                "Liquid_VG_8778960929.json",
+                "NAVI_VG_8777492128.json",
+                "TSpirit_VG_8775954955.json",
+                "TSpirit_VG_8776094912.json",
+                "XG_VG_8780270320.json"
+            ],
+            "players": [
+                "Bach",
+                "XinQ",
+                "Xm",
+                "shiro",
+                "y`"
+            ],
+            "count": 6
+        },
+        "NAVI": {
+            "matches": [
+                "TSpirit_NAVI_8780072753.json",
+                "TSpirit_NAVI_8780111466.json",
+                "TY_NAVI_8779214847.json",
+                "VG_NAVI_8777439091.json",
+                "VG_NAVI_8777570720.json",
+                "XG_NAVI_8775954888.json",
+                "XG_NAVI_8776019262.json"
+            ],
+            "players": [
+                "Niku",
+                "Riddys",
+                "daze",
+                "gotthejuice",
+                "pma"
+            ],
+            "count": 7
+        }
+    }
+}
